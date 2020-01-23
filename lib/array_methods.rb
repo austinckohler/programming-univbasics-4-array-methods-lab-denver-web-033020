@@ -4,7 +4,8 @@ dog_names.include?('sally')
 end
 
 def using_sort(array)
-
+dog_names = ['rosie', 'jack', 'sandy']
+dog_names.sort
 end
 
 def using_reverse(array)
