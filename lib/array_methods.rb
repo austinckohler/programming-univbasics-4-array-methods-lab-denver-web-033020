@@ -24,5 +24,6 @@ dog_names.last
 end
 
 def using_size(array)
-
+dog_names = ['rosie', 'jack', 'sandy']
+dog_names.size
 end
