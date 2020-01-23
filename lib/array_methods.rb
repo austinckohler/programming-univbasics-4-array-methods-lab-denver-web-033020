@@ -9,21 +9,21 @@ array.sort
 end
 
 def using_reverse(array)
-dog_names = ['rosie', 'jack', 'sandy']
-dog_names.reverse
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.reverse
 end
 
 def using_first(array)
-dog_names = ['rosie', 'jack', 'sandy']
-dog_names.first
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.first
 end
 
 def using_last(array)
-dog_names = ['rosie', 'jack', 'sandy']
-dog_names.last
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.last
 end
 
 def using_size(array)
-dog_names = ['rosie', 'jack', 'sandy']
-dog_names.size
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.size
 end
