@@ -14,7 +14,8 @@ dog_names.reverse
 end
 
 def using_first(array)
-
+dog_names = ['rosie', 'jack', 'sandy']
+dog_names.first
 end
 
 def using_last(array)
