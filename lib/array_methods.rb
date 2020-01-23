@@ -1,5 +1,5 @@
 def using_include(array, element)
-dog_names = ['rosie', 'jack', 'sandy']
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 dog_names.include?('sally')
 end
 
